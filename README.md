@@ -1,8 +1,4 @@
-<!-- Sci-Fi Live Hacking Image -->
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1510511459019-5dda7724fd87?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NzJ8fGhhY2tlcnxlbnwwfHwwfHx8MA%3D%3D" alt="Sci-Fi Live Hacking" width="800" height="300">
-</p>
-# 🏄‍♂️ MIAN AL RUHANYAT
+🏄‍♂️ MIAN AL RUHANYAT
 
 
 ##
