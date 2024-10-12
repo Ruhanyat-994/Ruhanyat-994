@@ -12,7 +12,8 @@
 
 [![Twitter](https://img.shields.io/badge/Twitter-M_Ruhanyat-%231DA1F2?style=flat-square&logo=twitter)](https://twitter.com/M_Ruhanyat)
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/M.Ruhanyat.png" alt="Your Image Badge" />
+[![Try Hack Me](https://img.shields.io/badge/TryHackMe-M_Ruhanyat-%23FF4C20?style=flat-square&logo=tryhackme
+)](https://tryhackme.com/r/p/M.Ruhanyat)
 
 ## 🧰 Languages and Tools
 
