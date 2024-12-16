@@ -6,7 +6,7 @@
 ##
 👋 I am a dedicated penetration tester and cybersecurity professional with over 1.5 years of hands-on experience in ethical hacking and system security. My journey in cybersecurity has been fueled by a passion for identifying vulnerabilities and securing critical systems.
 
-Since early 2024, I have actively participated in Capture The Flag (CTF) competitions to refine my penetration testing skills and tackle real-world scenarios. I specialize in working with various systems, including CMS platforms like WordPress, and have successfully exploited notable vulnerabilities such as CVE-2023-2640 (OverlayFS) and others.
+Since early 2024, I have actively participated in Capture The Flag (CTF) competitions to refine my penetration testing skills and tackle real-world scenarios. I specialize in working with various systems, including CMS platforms like WordPress, and have successfully exploited notable vulnerabilities such as CVE-2023-2640 (OverlayFS) and others. Know both External and Internal Penetration Testing from a Black Box Perspective.
 
 I am currently preparing for Hack The Box Certified Penetration Testing Specialist (CPTS) and OFF-SEC Certified Professional (OSCP) certifications to further enhance my technical expertise and credentials.
 
