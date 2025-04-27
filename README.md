@@ -1,10 +1,23 @@
 <!-- Cybersecurity Professional Portfolio -->
 
-# **MIAN AL RUHANYAT**
+<h1 align="center">MIAN AL RUHANYAT</h1>
+<h3 align="center">QA | Penetration Tester | Security Researcher</h3>
 
----
 
-## **Cybersecurity Specialist | Penetration Tester | Ethical Hacker**
+
+<p align="center">
+  <a href="https://www.youtube.com/@mian_al_ruhanyat" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="https://www.linkedin.com/in/alruhanyat/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/M_Ruhanyat" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+</p>
+
+
 
 I am a dedicated penetration tester and cybersecurity professional with over **2 years** of hands-on experience in ethical hacking and system security. My journey in cybersecurity has been fueled by a passion for identifying vulnerabilities and securing critical systems.
 
@@ -18,24 +31,43 @@ You can explore some of my penetration testing projects [here](https://github.co
 
 ---
 
-## **Connect With Me**
-
-[![YouTube](https://img.shields.io/badge/YouTube-Mian%20Al%20Ruhanyat-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@mian_al_ruhanyat) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mian%20Al%20Ruhanyat-%230077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alruhanyat/) 
-[![Twitter](https://img.shields.io/badge/Twitter-M_Ruhanyat-%231DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/M_Ruhanyat) 
----
-
 ## **Languages and Tools**
+<p>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+  </a>
+</p>
 
-![C](https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=C&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=Python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=Git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=Linux&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=GitHub&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-%234EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 
----
 
-Passionate about **cybersecurity** | Always learning | Ready to secure the digital world!
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ruhanyat-994)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruhanyat-994)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruhanyat-994&show_icons=true&count_private=true)  
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ruhanyat-994)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Ruhanyat-994)  
 
