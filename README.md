@@ -63,11 +63,8 @@ You can explore some of my penetration testing projects [here](https://github.co
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ruhanyat-994)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruhanyat-994)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruhanyat-994&show_icons=true&count_private=true)  
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ruhanyat-994)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruhanyat-994&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruhanyat-994&show_icons=true&theme=transparent&layout=compact)
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Ruhanyat-994)  
+
 
