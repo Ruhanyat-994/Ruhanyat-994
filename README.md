@@ -1,6 +1,6 @@
 
 <h1 align="center">MIAN AL RUHANYAT</h1>
-<h3 align="center">QA | Penetration Tester | Security Researcher</h3>
+<h3 align="center">QA | Automation | Penetration Testing</h3>
 
 
 
