@@ -33,7 +33,7 @@ I have 3 years of hands-on experience in software testing, which includes manual
 
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=java,c,cpp,python,linux,selenium,playwright,bash,postman,markdown,git" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=java,c,cpp,spring,linux,selenium,playwright,bash,postman,markdown,git" />
   </a>
 </p>
 
