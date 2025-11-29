@@ -1,72 +1,94 @@
 ## Hi there, I'm Mian Al Ruhanyat 👋
 
 <p align="center">
-  <a href="<!-- your website link -->" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-ffc107.svg?&style=for-the-badge&logo=html5&logoColor=black" /></a>
-  <a href="<!-- your YouTube link -->" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="<!-- your X profile link -->" target="_blank"><img alt="X" src="https://img.shields.io/badge/extwitter-%23000000.svg?&style=for-the-badge&logo=X&logoColor=white" /></a>
-  <a href="<!-- your LinkedIn profile link -->" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="<!-- your GitHub sponsor link -->" target="_blank"><img alt="GitHub sponsorship" src="https://img.shields.io/badge/Sponsor-171515?&style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://ruhanyat-994.github.io/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-ffc107.svg?&style=for-the-badge&logo=html5&logoColor=black" /></a>
+  <a href="https://www.youtube.com/@mian_al_ruhanyat" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://x.com/M_Ruhanyat" target="_blank"><img alt="X" src="https://img.shields.io/badge/X-%23000000.svg?&style=for-the-badge&logo=X&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/alruhanyat" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-I'm a **Security Researcher**, **Tester**, and **Cloud/DevOps Engineer** with strong hands-on experience in penetration testing, automation, and cloud infrastructure.
+I'm a QA Automation & Security Tester and Cloud/DevOps Enthusiast based in Dhaka, Bangladesh.
 
-I began my journey in early 2023 as a **penetration tester**, later expanding into **automation testing** using Selenium and Playwright with Java, and now focusing on **DevOps and Cloud Engineering** — combining testing, security, and automation to build reliable systems.
+For the last few years, I've been focusing on automating infrastructure, ensuring application security, and building scalable microservices using **Java, Spring Boot, AWS, and Docker**. Currently, I am working on automating test scripts and security assessments to identify vulnerabilities in web infrastructures.
 
----
+My passion is bridging the gap between Development, Security, and Operations (DevSecOps).
 
-### My Work
+### My work
 
-I’ve worked with international clients (USA, UK, Korea) on penetration and automation testing projects and contributed to cloud and DevOps environments.
+I work on various projects ranging from Security Automation to Full-Stack Containerization:
 
-Some key highlights:
+* [🎥 YouTube](https://www.youtube.com/@mian_al_ruhanyat) — Tech tutorials and insights
+* [📚 Portfolio](https://ruhanyat-994.github.io/) — My technical blogs and project showcases
 
-* Delivered a **testing automation suite** for a **California Energy Commission** project using **Java + Playwright**
-* Conducted **web and internal penetration testing** for multiple international clients
-* Developed and deployed **Spring Boot** and **React** applications
-* Built and managed **AWS**, **Docker**, and **Kubernetes** infrastructures
-* Worked with **MySQL**, **PostgreSQL**, **MongoDB**, and **DynamoDB**
+Open Source and personal projects are a huge part of my learning journey. Here are a few notable projects:
 
-I also share knowledge and tutorials on my **YouTube channel [RohanSec](!-- your YouTube link --)** — covering penetration testing, automation, and DevOps topics.
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>📦 Projects</b></td>
+      <td><b>📜 Language</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>🔀 Forks</b></td>
+      <td><b>ℹ️ Issues</b></td>
+      <td><b>📬 Pull requests</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/Ruhanyat-994/evolve-in.github.io"><b>🚀 Evolve-IN</b></a> — CI/CD Pipeline Automation using GitHub Actions and Jekyll</td>
+      <td><img alt="Ruby" src="https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white" /></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Ruhanyat-994/evolve-in.github.io?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Ruhanyat-994/evolve-in.github.io?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Ruhanyat-994/evolve-in.github.io?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Ruhanyat-994/evolve-in.github.io?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Ruhanyat-994/GuruGolpo"><b>🐳 GuruGolpo</b></a> — Containerized Microservice Architecture with Spring Boot & Docker</td>
+      <td><img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" /></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Ruhanyat-994/GuruGolpo?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Ruhanyat-994/GuruGolpo?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Ruhanyat-994/GuruGolpo?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Ruhanyat-994/GuruGolpo?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Ruhanyat-994/ReconScope"><b>🛡️ ReconScope</b></a> — Bash-Based Security Automation for domain reconnaissance</td>
+      <td><img alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" /></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Ruhanyat-994/ReconScope?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Ruhanyat-994/ReconScope?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Ruhanyat-994/ReconScope?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Ruhanyat-994/ReconScope?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Ruhanyat-994/Utility-APIs/tree/main/URL-SHORTER"><b>🔗 URL Shortener</b></a> — Scalable traffic tracking system with analytics</td>
+      <td><img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" /></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Ruhanyat-994/Utility-APIs/tree/main/URL-SHORTER?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Ruhanyat-994/Utility-APIs/tree/main/URL-SHORTER?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Ruhanyat-994/Utility-APIs/tree/main/URL-SHORTER?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Ruhanyat-994/Utility-APIs/tree/main/URL-SHORTERr?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
 
----
+You can also find me on other social media:
 
-### My Toolbox
+* [🔊 𝕏](https://x.com/M_Ruhanyat)
+* [💼 LinkedIn](https://www.linkedin.com/in/alruhanyat/)
+
+### My toolbox
 
 <p>
-  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
-  <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
-  <img alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-  <img alt="Selenium" src="https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" />
-  <img alt="Playwright" src="https://img.shields.io/badge/-Playwright-45ba4b?style=flat-square&logo=playwright&logoColor=white" />
-  <img alt="JUnit" src="https://img.shields.io/badge/-JUnit-25A162?style=flat-square&logo=java&logoColor=white" />
-  <img alt="TestNG" src="https://img.shields.io/badge/-TestNG-F89820?style=flat-square&logo=apachemaven&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white" />
-  <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" />
-  <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/-K8S-326ce5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
+  <img alt="Selenium" src="https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" />
+  <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-0064a5?style=flat-square&logo=postgresql&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="DynamoDB" src="https://img.shields.io/badge/-DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
 </p>
-
----
-
-### What I’m Currently Focusing On
-
-* Advanced **penetration testing** and **automation testing** techniques
-* Building and maintaining **cloud-native systems**
-* **Infrastructure as Code** with **Terraform**
-* Automating **CI/CD pipelines** with **GitHub Actions** and **Jenkins**
-* Expanding knowledge of **AWS**, **Kubernetes**, and **serverless** setups
-* Strengthening skills in **debugging**, **monitoring**, and **infrastructure security**
-
----
-
-### Find Me Online
